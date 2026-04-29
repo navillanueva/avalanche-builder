@@ -175,6 +175,7 @@ Load specialized modules based on task requirements:
 | [`security.md`](./security.md) | Security vulnerabilities, audit preparation |
 | [`resources.md`](./resources.md) | Reference documentation links |
 | [`l1-troubleshooting-metados.md`](./l1-troubleshooting-metados.md) | L1 stuck after subnet-to-L1 conversion, validator issues, warp timestamp, ProposerVM |
+| [`l1-troubleshooting-depchain.md`](./l1-troubleshooting-depchain.md) | DepChain Fuji L1 halt case, ProposerVM 59m59s fallback delay, validator balance refill, signature aggregator failures |
 | [`metados-mainnet-fix.md`](./metados-mainnet-fix.md) | Step-by-step mainnet config fix scripts (warp + proposerVM + restart) |
 | [`infra-troubleshooting.md`](./infra-troubleshooting.md) | Infrastructure & ops incidents: dedicated nodes, sidecars, CPU/memory alerts |
 
